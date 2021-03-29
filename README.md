@@ -1,10 +1,10 @@
-# Awesome and simple resume support downloader for .NetCore
+# A Simple downloader for C# (NetCore)
 
 1- Can be used asynchronously
 
-2- Complete and useful events (Success, Failure, Error, Retry, NotFound, Found, Resume, Progress)
+2- Reactive, Event-Driven (Success, Failure, Error, Retry, NotFound, Found, Resume, Progress)
 
-3- Retry support
+3- Retry and resume support
 
 4- Progress percentage and file size can be monitored
 
