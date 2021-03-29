@@ -2,9 +2,9 @@ name: .NET
 
 on:
   push:
-    branches: [ amirusef-dev-ci ]
+    branches: [ master ]
   pull_request:
-    branches: [ amirusef-dev-ci ]
+    branches: [ master ]
 
 jobs:
   build:
